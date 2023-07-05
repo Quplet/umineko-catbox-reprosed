@@ -1,3 +1,19 @@
+# Umineko Catbox Reprosed
+
+This is a small side project I'm working on to improve many things about the typesetting and editing of Umineko and the Umineko Project Translation. The primary goal is to deliver the story of Umineko in a much more readable, professional script. I will not hide the fact that this work is very much *transformative* of both the Umineko Project Translation as well as Ryukishi's prose as a whole with many of the changes I am making and plan to make. I do intend to preserve the meaning, intent, and story as much as possible.
+
+## But why?
+
+To put it bluntly, Ryukishi07 is very bad a prose. From the massive overuse of elipsis to very repetitive nature of his writing, on a professional scale, it just isn't good quality. I imagine many would say this lack of professionalism has charm, and I can see that, but to myself and many others it is just an annoying distraction. I don't intend to scrub every bit of this from the script, just the most egregious parts.
+
+The second reason is that while the Umineko Project Translation is great, a significant improvement over the official Witch Hunt counterpart, it still isn't perfect. They did a great job localizing many things that were previously religated to nothing or at the bare minimum to TL notes (yuck), they also left many things questionably unlocalized.
+
+## Credits
+
+This project is forked from the [Umineko Catbox English](https://github.com/andOlga/umineko-catbox-english/tree/master) patch, by [@andOlga](https://github.com/andOlga). This project was dedicated to a lost loved one of her's, and to honor that, the original README displaying such will remain unedited below.
+
+# Umineko Catbox English
+
 This project is dedicated, in its entirety, to my beloved Tara.
 
 Reading Umineko together, with this patch, while it was still being worked on,
