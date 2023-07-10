@@ -10,7 +10,7 @@ The second reason is that while the Umineko Project Translation is great, a sign
 
 ## Credits
 
-This project is forked from the [Umineko Catbox English](https://github.com/andOlga/umineko-catbox-english/tree/master) patch, by [@andOlga](https://github.com/andOlga). This project was dedicated to a lost loved one of her's, and to honor that, the original README displaying such will remain unedited below.
+This project is forked from the [Umineko Catbox English](https://andolga.github.io/umineko-catbox-english) patch, by [@andOlga](https://github.com/andOlga). This project was dedicated to a lost loved one of her's, and to honor that, the original README displaying such will remain unedited below.
 
 # Umineko Catbox English
 
